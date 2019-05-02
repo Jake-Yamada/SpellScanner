@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpellScanner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpellScanner_jar</output-path>
+    <root id="archive" name="SpellScanner.jar">
+      <element id="module-output" name="SpellScanner" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jsoup-1.11.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/gson-2.8.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
